@@ -1,0 +1,13 @@
+image_dir: [Filepath to folder containing images]
+
+points_dir: [Filepath to folder containing points]
+
+load_points: true
+
+images:
+{
+Image1.dcm_L.pts : Image1.dcm
+Image1.dcm_R.pts : Image1.dcm
+Image2.dcm_L.pts : Image2.dcm
+Image2.dcm_R.pts : Image2.dcm
+}
